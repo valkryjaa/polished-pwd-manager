@@ -1,7 +1,10 @@
 # Password Manager for Chrome
 
+## DISCLAIMER:
+Disclaimer from Valkryja. Don't take this serious. I'm just messing around with css and html for the fun of it and to test certain code i know on a project that's a good start for that type of code.
+
 ### NOTE: 
-This project is a **prove of concept** / **sample application** for a chromium based web-browser and originated form the youtube video: https://www.youtube.com/watch?v=bpuomoEUbgQ
+This project is a **proof of concept** / **sample application** for a chromium based web-browser and originated form the youtube video: https://www.youtube.com/watch?v=bpuomoEUbgQ
 
 This extension **does not provide a secure password storage** (as of now 18th March 2022) and therefor it is not recomeded to be used for other than educational purposes.
 
