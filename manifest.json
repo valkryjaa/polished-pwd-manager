@@ -1,6 +1,6 @@
 {
-    "name": "Password Manager",
-    "description": "Manages passwords.",
+    "name": "Chromium Password Manager",
+    "description": "Manages passwords. Polished by Valkryja.",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
